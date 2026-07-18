@@ -2,6 +2,7 @@ import React from 'react';
 import { ArrowRight } from 'lucide-react';
 import { useNavigate, useOutletContext } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
+import stadiumBg from '../assets/stadium.png';
 
 const LandingPage = () => {
   const navigate = useNavigate();
@@ -31,7 +32,7 @@ const LandingPage = () => {
       <div 
         className="absolute inset-0 z-0 bg-cover bg-center"
         style={{ 
-          backgroundImage: `url('/src/assets/stadium.png')`,
+          backgroundImage: `url(${stadiumBg})`,
           filter: 'brightness(0.6)'
         }}
       />
