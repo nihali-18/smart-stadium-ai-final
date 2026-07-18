@@ -36,50 +36,6 @@ An AI-powered multilingual stadium assistant designed to enhance the fan experie
 ## 🚀 Live Demo
 
 🔗 **Live Website:**  
-*(Paste your Vercel link here)*
-
----
-
-## 📂 GitHub Repository
-
-# 🏟️ Smart Stadium AI
-
-An AI-powered multilingual stadium assistant designed to enhance the fan experience during major sporting events like the FIFA World Cup.
-
-## 🌟 Features
-
-- 🤖 AI Chat Assistant powered by Google Gemini
-- 🌍 Multi-language Support
-- 🎫 Digital Ticket Information
-- 🗺️ Interactive Stadium Navigation
-- ⚽ Live Match Information
-- 🚨 Emergency Assistance
-- 👥 Role-Based Dashboards
-  - Fan
-  - Volunteer
-  - Organizer
-  - Ground Staff
-- ♿ Easy Mode for Accessibility
-- 💬 Fan Feedback System
-
----
-
-## 🛠️ Tech Stack
-
-- React.js
-- Vite
-- Tailwind CSS
-- React Router
-- react-i18next
-- Google Gemini API
-- Git & GitHub
-- Vercel
-
----
-
-## 🚀 Live Demo
-
-🔗 **Live Website:**  
 https://smart-stadium-ai-final.vercel.app/
 ---
 
