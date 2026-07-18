@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+node/
+
+# environment files
+.env
+
+# build output
+dist/
+
+# logs
+*.log
+
+# zip files
+*.zip
